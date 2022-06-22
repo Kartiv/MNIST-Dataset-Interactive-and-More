@@ -1,0 +1,9 @@
+#canvas{
+    border:solid;
+    top:calc(50% - 280px);
+    left:50%;
+}
+
+#prediction{
+    left:50%;
+}
